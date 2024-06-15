@@ -36,13 +36,4 @@ The best way to better explore all the features of the **Alarm-Clock** is to for
 - Backend purely using Kotlin
 - Frontend using xml
 - Large pool of objects to detect as per users convenience
-  
 
-
-## ⭐️ Meet the Team
-- Shreyash Delmade | LIT2022049 | [Github](https://github.com/shreyashdelmade0744)
-- Shiv Pandey | LIT2022047 | [Github](https://github.com/shiv35)
-
-## 🎊 Contribution
-- Shreyash Delmade - UI , Ml model through TensorFlow , Notifications , Accelerometer , Splash Screen , Handler implementation
-- Shiv Pandey - UI , random object code , Accelerometer , Vibrations , TimePicker , MediaPlayer
